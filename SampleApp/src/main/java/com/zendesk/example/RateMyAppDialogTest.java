@@ -30,6 +30,10 @@ public class RateMyAppDialogTest extends FragmentActivity implements Serializabl
 
 
 
+
+
+
+
         /**
          * This builder will allow you to customise the RateMyApp dialog.
          */
