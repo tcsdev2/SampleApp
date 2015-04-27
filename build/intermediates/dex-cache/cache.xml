@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/sakchai/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/sakchai/Downloads/SampleApp/SampleApp/build/intermediates/pre-dexed/debug/retrofit-1.9.0-4f3beda59e10242a1fcabd2f474b6c7ef20fb4b7.jar" />
+    </item>
+    <item
+        jar="/Users/sakchai/.gradle/caches/modules-2/files-2.1/com.google.zxing/android-integration/3.1.0/52707c1c0801b4e1c0ca9bdbabd2dae20d8564d7/android-integration-3.1.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="52707c1c0801b4e1c0ca9bdbabd2dae20d8564d7">
+        <dex dex="/Users/sakchai/Downloads/SampleApp/SampleApp/build/intermediates/pre-dexed/debug/android-integration-3.1.0-eb7816bfa61a49dbdfac0ac567c3c76154f95043.jar" />
+    </item>
+    <item
+        jar="/Users/sakchai/Downloads/SampleApp/SampleApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/sakchai/Downloads/SampleApp/SampleApp/build/intermediates/pre-dexed/debug/classes-bdebdbe3a7c2b963192180ac9b5750c41182ae7d.jar" />
+    </item>
+    <item
+        jar="/Users/sakchai/Downloads/SampleApp/SampleApp/build/intermediates/exploded-aar/com.zendesk/sdk/1.2.0.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1b63a75923b58749cc3eef60a8887c1e598f4640">
+        <dex dex="/Users/sakchai/Downloads/SampleApp/SampleApp/build/intermediates/pre-dexed/debug/classes-d3a34cdde93a5ced72cbf9506ffe7b392d3adb60.jar" />
+    </item>
+    <item
+        jar="/Users/sakchai/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-urlconnection/2.2.0/cb20062e14c523637b7643295418097b48cccec2/okhttp-urlconnection-2.2.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="cb20062e14c523637b7643295418097b48cccec2">
+        <dex dex="/Users/sakchai/Downloads/SampleApp/SampleApp/build/intermediates/pre-dexed/debug/okhttp-urlconnection-2.2.0-2e74d845304c91936bb1df75ab758af700f1ab06.jar" />
+    </item>
+    <item
+        jar="/Users/sakchai/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/sakchai/Downloads/SampleApp/SampleApp/build/intermediates/pre-dexed/debug/gson-2.3.1-3be9051cdaa8df42afc0aef839ab3fd7d11dc0c0.jar" />
+    </item>
+    <item
+        jar="/Users/sakchai/Documents/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/sakchai/Downloads/SampleApp/SampleApp/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-498baa68cdc434776307c98aeac492b7afae3ae8.jar" />
+    </item>
+    <item
+        jar="/Users/sakchai/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.0/7ff0e000d1e27e356567f56c92af3b8ab912636f/picasso-2.5.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="/Users/sakchai/Downloads/SampleApp/SampleApp/build/intermediates/pre-dexed/debug/picasso-2.5.0-885ea2f715c0fa478757fdf83df06b6b12c5cc50.jar" />
+    </item>
+    <item
+        jar="/Users/sakchai/Downloads/SampleApp/SampleApp/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/sakchai/Downloads/SampleApp/SampleApp/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-b5038f08baee57a43767ff50cb0cb6907b418688.jar" />
+    </item>
+    <item
+        jar="/Users/sakchai/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.2.0/c0b52915a48fa91b1b94a28d4a2997bac5f524df/okio-1.2.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="c0b52915a48fa91b1b94a28d4a2997bac5f524df">
+        <dex dex="/Users/sakchai/Downloads/SampleApp/SampleApp/build/intermediates/pre-dexed/debug/okio-1.2.0-be9a836d31591e5b43024f044e003ca186163101.jar" />
+    </item>
+    <item
+        jar="/Users/sakchai/Downloads/SampleApp/SampleApp/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/sakchai/Downloads/SampleApp/SampleApp/build/intermediates/pre-dexed/debug/classes-186901354abbd774a37ff686720594d46345551f.jar" />
+    </item>
+    <item
+        jar="/Users/sakchai/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.2.0/959c454243581fdf730abfd4f4745441724bcf2c/okhttp-2.2.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
+        <dex dex="/Users/sakchai/Downloads/SampleApp/SampleApp/build/intermediates/pre-dexed/debug/okhttp-2.2.0-34bf8ebe311fa2d7d180a3fd9639ad7d2d42dd3d.jar" />
+    </item>
+
+</items>
