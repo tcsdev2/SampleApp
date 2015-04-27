@@ -29,7 +29,7 @@ public class RateMyAppDialogTest extends FragmentActivity implements Serializabl
         setContentView(R.layout.activity_rate_my_app_dialog_test);
 
 
-//;p;;pttttt
+//jhukhjliohguijghkbhhjk
 
 //gfddfgfhfgh
 
