@@ -28,6 +28,8 @@ public class RateMyAppDialogTest extends FragmentActivity implements Serializabl
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_rate_my_app_dialog_test);
 
+
+
         /**
          * This builder will allow you to customise the RateMyApp dialog.
          */
